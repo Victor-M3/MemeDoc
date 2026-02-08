@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+requests
+numpy  # 如果闯关要模拟曲线用
